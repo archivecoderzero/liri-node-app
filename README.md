@@ -54,4 +54,9 @@ This command, outputs unlimited results depending on
 - When the result does not have any values to return , it will console log the error the user . 
 
 
-do-what-it-says
+### "do-what-it-says" command 
+
+- This command line for the Liri App is made to pull the command from the text file , then run it . As of now , it uses the "spotify-this-song,I Want it That Way" , as the random command . 
+
+
+
