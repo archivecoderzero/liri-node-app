@@ -64,8 +64,7 @@ This command, outputs unlimited results depending on
 
  > OTHER RESULT : 
 ![image](https://github.com/archivecoderzero/liri-node-app/blob/master/image/liri111.PNG) 
-- Pulls from the random.txt , then run the command line and the on it . 
-
+- I put another example, i edited the random.txt to "movie-this,The Avengers" and it still works
 
 
 
