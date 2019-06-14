@@ -59,8 +59,12 @@ This command, outputs unlimited results depending on
 - This command line for the Liri App is made to pull the command from the text file , then run it . As of now , it uses the "spotify-this-song,I Want it That Way" , as the random command . 
 
  > DEFUALT RESULT : 
-![image](https://github.com/archivecoderzero/liri-node-app/blob/master/image/lirimoviedef.PNG) 
-- Shows the default result which is set to "Mr. Nobody"
+![image](https://github.com/archivecoderzero/liri-node-app/blob/master/image/dowhat.PNG) 
+- Pulls from the random.txt , then run the command line and the on it . 
+
+ > OTHER RESULT : 
+![image](https://github.com/archivecoderzero/liri-node-app/blob/master/image/liri111.PNG) 
+- Pulls from the random.txt , then run the command line and the on it . 
 
 
 
